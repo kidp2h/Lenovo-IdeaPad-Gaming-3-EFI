@@ -27,6 +27,7 @@
 
 ## Presiquisites
 
+- Download [EFI](https://drive.google.com/drive/folders/1fFgWZ-1S54pKGRx235hEZsIKSKqVMaPm?usp=sharing)
 - At least 16Gb USB
 - macOS Installer (Read open core guides)
 - Ethernet capble or can share network over Android phone
