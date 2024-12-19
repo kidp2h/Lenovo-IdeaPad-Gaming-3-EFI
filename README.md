@@ -78,6 +78,7 @@ Sound Problems:
 # References
 - [OpenCore Guide - English](https://dortania.github.io/OpenCore-Install-Guide/)
 - [VNO Guide - Vietnamese](https://vnohackintosh.com)
+- [Mihot7's EFI](https://github.com/Mihot7/lenovo-ideapad-gaming-3-15ach6-open-core)
     
 
 
