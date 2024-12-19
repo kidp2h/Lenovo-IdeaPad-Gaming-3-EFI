@@ -20,7 +20,10 @@
 | Brightness | ✅  |
 | External Device (Mouse, Keyboard, Monitor) | ✅  |
 | iServices | ✅  |
-| Bluetooth | ❌ |
+| Fn (Brightness, sound) | ✅ |
+| Sleep & Wake| ✅ |
+| Touchpad | ✅ |
+| Bluetooth | ❌ | (work with USB Orico BT403) 
 | WLAN | ❌ |
 | dGPU | ❌ |
 
