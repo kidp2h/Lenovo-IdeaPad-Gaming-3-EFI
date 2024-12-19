@@ -19,6 +19,7 @@
 | Camera | ✅  |
 | Brightness | ✅  |
 | External Device (Mouse, Keyboard, Monitor) | ✅  |
+| iServices | ✅  |
 | Bluetooth | ❌ |
 | WLAN | ❌ |
 | dGPU | ❌ |
@@ -28,7 +29,7 @@
 ## Presiquisites
 
 - Download [EFI](https://drive.google.com/drive/folders/1fFgWZ-1S54pKGRx235hEZsIKSKqVMaPm?usp=sharing)
-- At least 16Gb USB
+- At least 16Gb USB (32Gb Recommended)
 - macOS Installer (Read open core guides)
 - Ethernet capble or can share network over Android phone
 - In BIOS (Press F2 to enter BIOS):
