@@ -1,3 +1,5 @@
+# About the Tahoe with this EFI
+- On the Tahoe, this EFI don't work, so if you want update to Tahoe, you can check this [EFI for Tahoe](https://github.com/kidp2h/EFI-Lenovo-Ideapad-Gaming-3-Tahoe)
 
 # Information
 | Device | Name |
